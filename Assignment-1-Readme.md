@@ -1,4 +1,4 @@
-#Readme
+# SED-505-Assignment 1
 
 Filename	        Description
 Item.h	          Abstract base class/interface for items (tools, groceries) with virtual methods like GetCost(), display(), and accept(visitor) declaration.
